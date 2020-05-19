@@ -3,7 +3,7 @@ package loadbalance
 import (
 	"sync"
 
-	"github.com/zouyx/agollo/v3/env/config"
+	"github.com/xc407/agollo/v3/env/config"
 )
 
 var defaultLoadBalance LoadBalance

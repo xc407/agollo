@@ -6,10 +6,10 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/env/config"
-	jsonConfig "github.com/zouyx/agollo/v3/env/config/json"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/xc407/agollo/v3/component/log"
+	"github.com/xc407/agollo/v3/env/config"
+	jsonConfig "github.com/xc407/agollo/v3/env/config/json"
+	"github.com/xc407/agollo/v3/utils"
 
 	"strings"
 	"sync"

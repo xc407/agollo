@@ -4,11 +4,11 @@ import (
 	"testing"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/env/config/json"
-	"github.com/zouyx/agollo/v3/loadbalance"
-	_ "github.com/zouyx/agollo/v3/loadbalance/roundrobin"
+	"github.com/xc407/agollo/v3/env"
+	"github.com/xc407/agollo/v3/env/config"
+	"github.com/xc407/agollo/v3/env/config/json"
+	"github.com/xc407/agollo/v3/loadbalance"
+	_ "github.com/xc407/agollo/v3/loadbalance/roundrobin"
 )
 
 const servicesConfigResponseStr = `[{

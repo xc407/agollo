@@ -1,15 +1,15 @@
 package agollo
 
 import (
-	"github.com/zouyx/agollo/v3/agcache"
-	"github.com/zouyx/agollo/v3/component"
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/component/notify"
-	"github.com/zouyx/agollo/v3/component/serverlist"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/loadbalance/roundrobin"
-	"github.com/zouyx/agollo/v3/storage"
+	"github.com/xc407/agollo/v3/agcache"
+	"github.com/xc407/agollo/v3/component"
+	"github.com/xc407/agollo/v3/component/log"
+	"github.com/xc407/agollo/v3/component/notify"
+	"github.com/xc407/agollo/v3/component/serverlist"
+	"github.com/xc407/agollo/v3/env"
+	"github.com/xc407/agollo/v3/env/config"
+	"github.com/xc407/agollo/v3/loadbalance/roundrobin"
+	"github.com/xc407/agollo/v3/storage"
 )
 
 var (

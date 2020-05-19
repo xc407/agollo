@@ -8,13 +8,13 @@ import (
 	"time"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/agcache"
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/component/notify"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/env/config"
-	jsonFile "github.com/zouyx/agollo/v3/env/config/json"
-	"github.com/zouyx/agollo/v3/storage"
+	"github.com/xc407/agollo/v3/agcache"
+	"github.com/xc407/agollo/v3/component/log"
+	"github.com/xc407/agollo/v3/component/notify"
+	"github.com/xc407/agollo/v3/env"
+	"github.com/xc407/agollo/v3/env/config"
+	jsonFile "github.com/xc407/agollo/v3/env/config/json"
+	"github.com/xc407/agollo/v3/storage"
 )
 
 var (

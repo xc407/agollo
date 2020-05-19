@@ -9,12 +9,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/zouyx/agollo/v3/env/config"
-	jsonConfig "github.com/zouyx/agollo/v3/env/config/json"
+	"github.com/xc407/agollo/v3/env/config"
+	jsonConfig "github.com/xc407/agollo/v3/env/config/json"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env"
-	_ "github.com/zouyx/agollo/v3/loadbalance/roundrobin"
+	"github.com/xc407/agollo/v3/env"
+	_ "github.com/xc407/agollo/v3/loadbalance/roundrobin"
 )
 
 var (

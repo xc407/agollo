@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/agcache"
+	"github.com/xc407/agollo/v3/agcache"
 )
 
 var (

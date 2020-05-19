@@ -7,14 +7,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/zouyx/agollo/v3/component"
-	"github.com/zouyx/agollo/v3/env/config"
+	"github.com/xc407/agollo/v3/component"
+	"github.com/xc407/agollo/v3/env/config"
 
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/protocol/http"
-	"github.com/zouyx/agollo/v3/storage"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/xc407/agollo/v3/component/log"
+	"github.com/xc407/agollo/v3/env"
+	"github.com/xc407/agollo/v3/protocol/http"
+	"github.com/xc407/agollo/v3/storage"
+	"github.com/xc407/agollo/v3/utils"
 )
 
 const (
